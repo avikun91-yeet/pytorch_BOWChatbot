@@ -44,7 +44,7 @@ with open("intents.json", "r") as f:
     intents = json.load(f)
 
 # Chat loop
-bot_name = "Rawkush"
+bot_name = "PetPal"
 print(f"{bot_name}: Hi! I'm {bot_name}. Type 'quit' to exit.")
 
 while True:
